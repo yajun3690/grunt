@@ -1,0 +1,23 @@
+{
+  "name": "organonchina",
+  "version": "0.0.1",
+  "description": "organonchina page",
+  "main": "index.js",
+  "author": "Ray",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-contrib-jshint": "^3.0.0",
+    "grunt-contrib-nodeunit": "^3.0.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-uglify": "^5.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "ruby": "^0.6.1"
+  }
+}
